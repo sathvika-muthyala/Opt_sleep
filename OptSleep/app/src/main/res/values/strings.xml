@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Opt Sleep</string>
+    <string name="google_app_id">400183840351-dmu196b764op1c4oc8u3bsile457nkak.apps.googleusercontent.com</string>
+    <string name="fetch_sleep_data">Fetch Sleep Data</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sleep_optimization">Sleep Optimization</string>
+    <string name="sleep_data">Sleep Data:</string>
+    <string name="sleep_score">Sleep Score:</string>
+    <string name="recommendations">Recommendations:</string>
+    <string name="smart_alarm">Smart Alarm</string>
+    <string name="total_sleep_data">Total Sleep Data</string>
+    <string name="set_alaram">SET ALARAM</string>
+    <string name="refetch">REFETCH</string>
+</resources>

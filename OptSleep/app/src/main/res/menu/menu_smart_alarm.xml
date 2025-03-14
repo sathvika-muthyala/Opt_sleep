@@ -1,0 +1,11 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@android:id/home"
+        android:icon="@android:drawable/ic_media_previous"
+        android:showAsAction="always"
+        android:contentDescription="back"
+        android:orderInCategory="100"
+        android:title="BACK"
+        tools:ignore="AppCompatResource" />
+</menu>
